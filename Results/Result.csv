@@ -1,0 +1,41 @@
+Transaction No.,Key,Value
+SZ2,rur_30byte_string_001,                                
+SZ2,rur_seg_version,658
+SZ2,rem_seg_version,85
+SZ2,smh_build_num,          
+SZ2,smh_tran_type,TST
+SZ2,rur_numeric_002,void 0xff 0xff 0xfe 0x00 0x00 0x00 0x00 0x00
+SZ2,rem_rur_persistence,TA
+SZ2,rem_seg_id,043990
+SZ2,rem_psn_system,SAT
+SZ2,smh_corr_id,0f02caca-d723-4c7c-842d-8b6468be65f8
+SZ2,smh_activity_detail,RED
+SZ2,smh_seg_version,22
+SZ2,rur_numeric_001,void 0xff 0xff 0xfe 0x00 0x00 0x00 0x00 0x00
+SZ2,smh_msg_version,09.08.88
+SZ2,rur_seg_id,658974
+SZ2,rem_api_processing,978
+SZ2,smh_tran_num,87456234132583
+SZ2,rem_prelim_dec_until_time,          
+SZ2,smh_seg_id,000020
+SZ2,rem_prelim_dec_info,      
+SZ1,sub_seg_id,099990
+SZ1,rur_30byte_string_001,                                
+SZ1,rur_seg_version,111
+SZ1,smh_build_num,          
+SZ1,smh_tran_type,ABC
+SZ1,sub_seg_version,99
+SZ1,rur_numeric_002,void 0xff 0xff 0xfe 0x00 0x00 0x00 0x00 0x00
+SZ1,smh_cust_type,SA
+SZ1,sub_rur_persistence,90
+SZ1,smh_corr_id,cc04cef7-8cac-48ae-9487-7730d6ff4797
+SZ1,smh_activity_detail,CAT
+SZ1,smh_seg_version,00
+SZ1,sub_prelim_dec_until_time,          
+SZ1,rur_numeric_001,void 0x40 0xc0 0xea 0x80 0x00 0x00 0x00 0x00
+SZ1,smh_msg_version,08.08.88
+SZ1,sub_api_processing,9
+SZ1,rur_seg_id,011111
+SZ1,smh_tran_num,89456234131861
+SZ1,sub_prelim_dec_info,      
+SZ1,smh_seg_id,000000

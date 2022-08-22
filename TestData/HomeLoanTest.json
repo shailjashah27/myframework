@@ -1,0 +1,118 @@
+{
+	"homeLoanRepaymentUsingProductsTest": [
+		{
+			"AmountToBorrow": "500000",
+			"YearsToBorrow": "30",
+			"RepaymentType": "Interest only 4 years",
+			"Product": "2.89% p.a. 1 Year Fixed Rate Investment Home Loan",
+			"TotalRepayment": "$927,669",
+			"TotalInterest": "$427,669"
+		},
+		{
+			"AmountToBorrow": "750000",
+			"YearsToBorrow": "30",
+			"RepaymentType": "Interest only 4 years",
+			"Product": "2.89% p.a. 1 Year Fixed Rate Investment Home Loan",
+			"TotalRepayment": "$1,391,504",
+			"TotalInterest": "$641,504"
+		},
+		{
+			"AmountToBorrow": "900000",
+			"YearsToBorrow": "20",
+			"RepaymentType": "Interest only 4 years",
+			"Product": "2.89% p.a. 1 Year Fixed Rate Investment Home Loan",
+			"TotalRepayment": "$1,410,561",
+			"TotalInterest": "$510,561"
+		},
+		{
+			"AmountToBorrow": "1200000",
+			"YearsToBorrow": "30",
+			"RepaymentType": "Principal and interest",
+			"Product": "3.85% p.a. Standard Variable Rate Home Loan",
+			"TotalRepayment": "$2,025,252",
+			"TotalInterest": "$825,252"
+		},
+		{
+			"AmountToBorrow": "220000",
+			"YearsToBorrow": "30",
+			"RepaymentType": "Principal and interest",
+			"Product": "3.54% p.a. Extra Investment Home Loan 10% deposit",
+			"TotalRepayment": "$357,415",
+			"TotalInterest": "$137,415"
+		},
+		{
+			"AmountToBorrow": "650000",
+			"YearsToBorrow": "10",
+			"RepaymentType": "Interest only 5 years",
+			"Product": "2.89% p.a. 1 Year Fixed Rate Investment Home Loan",
+			"TotalRepayment": "$866,563",
+			"TotalInterest": "$216,563"
+		},
+		{
+			"AmountToBorrow": "100000",
+			"YearsToBorrow": "30",
+			"RepaymentType": "Principal and interest",
+			"Product": "0.99% p.a. CommBank Green Investment Loan",
+			"TotalRepayment": "$105,073",
+			"TotalInterest": "$5,073"
+		},
+		{
+			"AmountToBorrow": "800000",
+			"YearsToBorrow": "25",
+			"RepaymentType": "Principal and interest",
+			"Product": "3.85% p.a. Standard Variable Rate Home Loan",
+			"TotalRepayment": "$965,125",
+			"TotalInterest": "$165,125"
+		},
+		{
+			"AmountToBorrow": "800000",
+			"YearsToBorrow": "30",
+			"RepaymentType": "Principal and interest",
+			"Product": "4.43% p.a. Standard Variable Rate Investment Home Loan",
+			"TotalRepayment": "$1,447,300",
+			"TotalInterest": "$647,300"
+		}
+	],
+	"homeLoanRepaymentUsingCustomRatesTest": [
+		{
+			"AmountToBorrow": "500000",
+			"YearsToBorrow": "30",
+			"RepaymentType": "Interest only 4 years",
+			"CustomRate": "2.89",
+			"TotalRepayment": "$769,531",
+			"TotalInterest": "$269,531"
+		},
+		{
+			"AmountToBorrow": "750000",
+			"YearsToBorrow": "30",
+			"RepaymentType": "Principal and interest",
+			"CustomRate": "3.11",
+			"TotalRepayment": "$1,154,412",
+			"TotalInterest": "$404,412"
+		},
+		{
+			"AmountToBorrow": "800000",
+			"YearsToBorrow": "30",
+			"RepaymentType": "Principal and interest",
+			"CustomRate": "1.99",
+			"TotalRepayment": "$1,063,065",
+			"TotalInterest": "$263,065"
+		},
+		{
+			"AmountToBorrow": "750000",
+			"YearsToBorrow": "30",
+			"RepaymentType": "Principal and interest",
+			"CustomRate": "2.89",
+			"TotalRepayment": "$1,122,376",
+			"TotalInterest": "$372,376"
+		},
+		{
+			"AmountToBorrow": "1000000",
+			"YearsToBorrow": "30",
+			"RepaymentType": "Interest only 4 years",
+			"CustomRate": "4.89",
+			"TotalRepayment": "$1,964,294",
+			"TotalInterest": "$964,294"
+		}
+	]
+}
